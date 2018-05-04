@@ -28,4 +28,7 @@ After loging in, user takes a minimum of 20 photos of the object they want to 3D
 ## Why it's not completed?
 The API of the photogrametry tool is not publicly available yet. We'll continue development as soon as it becomes available.
 
-
+## TODO list
+- [ ] Unit testing
+- [ ] Stripe Payment implementation
+- [ ] Proper UI/UX design
