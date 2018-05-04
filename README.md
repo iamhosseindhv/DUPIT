@@ -1,9 +1,6 @@
 # DUPIT
 <img align="right" src="https://i.imgur.com/f4LZZ0S.gif"/>
-DUPIT wants to make 3D scanning as easy and accessible as 2D scanning.
-</br>
-
-It is an iOS application (under development), which uses [photogrametry](https://en.wikipedia.org/wiki/Photogrammetry) tools, to create a 3D model of any object of any size. Be it Buckingham Palace or your friend Joe! The only requirement is that there must be sufficient photos of that object, such that the taken photos overlap. 
+DUPIT aims to make 3D scanning as easy and accessible as 2D scanning. It is an iOS application (under development), which uses [photogrametry](https://en.wikipedia.org/wiki/Photogrammetry) tools, to create a 3D model of any object of any size. Be it Buckingham Palace or your friend Joe! The only requirement is that there must be sufficient photos of that object, such that the taken photos overlap. 
 
 </br>
 </br>
