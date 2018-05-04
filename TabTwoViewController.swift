@@ -52,15 +52,21 @@ class TabTwoViewController: DatasourceController , UINavigationBarDelegate, User
     
     override func collectionView(_ collectionView: UICollectionView, didSelectItemAt indexPath: IndexPath) {
         
-        print(downloadedModels)
-        
-        
+//        print(downloadedModels)
 //        let model = downloadedModels[indexPath]
-        //if there exists a file for texture url, then definitely there is file for module url.
-//        if localFileExists(atPath: (model?.textureURL.path)!) {
-//            showModel(modelURL: (model?.modelURL)!, textureURL: (model?.textureURL)!)
+//        print(model)
+        
+//        var orderCell = datasource?.item(indexPath) as! Order
+//        let texturePath = orderCell.textureURL
+//        //if there exists a file for texture url, then definitely there is file for module url.
+//        print(orderCell)
+//        
+//        if localFileExists(atPath: texturePath!) {
+//            let modelurl = URL(string: orderCell.modelURL!)
+//            let textureurl = URL(string: texturePath!)
+//            showModel(modelURL: modelurl!, textureURL: textureurl!)
 //        }
-//        collectionView.deselectItem(at: indexPath, animated: true)
+        collectionView.deselectItem(at: indexPath, animated: true)
         
 //        code for how to remove item
 //        let userID = FIRAuth.auth()!.currentUser!.uid
