@@ -37,17 +37,6 @@ class Service {
     
 }
 
-
-
-
 //Service.sharedInstance.dowloadData(url: urlString, completion: { (filePath) in
 //                
 //})
-
-
-
-
-
-
-
-"https://firebasestorage.googleapis.com/v0/b/dupme-2692d.appspot.com/o/KmVeMWDlmvfe6TnJkvmQsqqt4O33%2FED901CFB-5E64-4F6B-B714-7DA361B98870%2FKmVeMWDlmvfe6TnJkvmQsqqt4O33_ED901CFB-5E64-4F6B-B714-7DA361B98870_14.jpg?alt=media&token=0724f707-c5f4-44ca-98c7-19b65315c099"
